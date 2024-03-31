@@ -10,6 +10,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)Compression.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ConsoleUtils.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Interfaces.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Operation.cs" />
   </ItemGroup>
